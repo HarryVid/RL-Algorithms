@@ -1,2 +1,24 @@
 # RL-Algorithms-Library
-Library for Reinforcement Learning Algorithms
+
+# DONE
+
+# TODO
+
+DDPG
+
+TD3
+
+SAC
+
+DQN
+
+DDQN
+
+EXPERIENCE REPLAY
+COMBINED EXPERIENCE REPLAY
+HINDSIGHT EXPERIENCE REPLAY
+
+A2C
+A3C
+
+PPO2
