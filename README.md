@@ -2,25 +2,40 @@
 
 # DONE
 
-# TODO
-
 DDPG
 
 TD3
 
-SAC
+Noisy Networks for Exploration
+
+RANGER Optimizer
+
+Action Noise
+
+Experience Replay
+
+Combined Experience Replay
+
+Behaviour Cloning (Refer Master Thesis Repository)
+
+# TODO
 
 DQN
 
 DDQN
 
-INTRINSIC CURIOSOTY
+SAC2
 
-EXPERIENCE REPLAY
-COMBINED EXPERIENCE REPLAY
-HINDSIGHT EXPERIENCE REPLAY
+Epsilon Greedy Strategy
+
+Hindsight Experience Replay
+
+Intrinsic Curiosity
+
+Adaptive Parameter Noise
 
 A2C
+
 A3C
 
 PPO2
