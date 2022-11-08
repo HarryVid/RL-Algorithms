@@ -16,6 +16,8 @@ Experience Replay
 
 Combined Experience Replay
 
+Constant Parameter Noise
+
 Behaviour Cloning (Refer Master Thesis Repository)
 
 # TODO
@@ -26,6 +28,8 @@ DDQN
 
 SAC2
 
+PPO2
+
 Epsilon Greedy Strategy
 
 Hindsight Experience Replay
@@ -33,9 +37,3 @@ Hindsight Experience Replay
 Intrinsic Curiosity
 
 Adaptive Parameter Noise
-
-A2C
-
-A3C
-
-PPO2
