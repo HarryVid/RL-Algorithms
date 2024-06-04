@@ -26,14 +26,20 @@ DQN
 
 DDQN
 
+DDDQN
+
+Q-Transformers
+
 SAC2
 
 PPO2
 
-Epsilon Greedy Strategy
-
-Hindsight Experience Replay
+Hindsight Experience Replay & Ranking
 
 Intrinsic Curiosity
 
-Adaptive Parameter Noise
+Adaptive Parameter Noise & Different Noise Strategies for Exploration
+
+Different Exploration and Exploitation Strategies for Exploration
+
+Ensemble Reinforcement Learning
